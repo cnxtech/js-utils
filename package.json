@@ -18,7 +18,7 @@
     "js-md5": "0.7.3"
   },
   "devDependencies": {
-    "babel-eslint": "8.0.3",
+    "babel-eslint": "8.2.6",
     "eslint": "4.12.1",
     "eslint-config-jitsi": "github:jitsi/eslint-config-jitsi#v0.1",
     "eslint-plugin-flowtype": "2.39.1",
